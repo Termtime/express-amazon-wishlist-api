@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "public/index.js",
   "scripts": {
-    "start": "nodemon public/index.js"
+    "start": "nodemon src/index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
